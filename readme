@@ -1,1 +1,9 @@
-a
+This repository contains experimentations done on epileptic seizures prediction with LIME and SHAP modules. 
+
+Final results are in :
+https://github.com/fernandokm/seizure_detection_pipeline/tree/dev
+
+Links to the LIME and SHAP documentations :
+https://lime-ml.readthedocs.io/en/latest/
+https://shap.readthedocs.io/en/latest/index.html
+
